@@ -1,4 +1,4 @@
-package SectionC
+package Assignment_1.SectionC
 
 fun main() {
     val numbers = listOf(12, 35, 1, 10, 34, 35)

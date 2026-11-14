@@ -1,4 +1,4 @@
-package SectionA
+package Assignment_1.SectionA
 
 fun checkVowels(str : String) : Int{
     val vowels = "a,e,i,o,u"

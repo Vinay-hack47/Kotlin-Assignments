@@ -1,4 +1,4 @@
-package SectionB
+package Assignment_1.SectionB
 
 fun main(){
     print("Enter the marks to obtain grade: ")

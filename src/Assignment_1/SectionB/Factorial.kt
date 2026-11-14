@@ -1,4 +1,4 @@
-package SectionB
+package Assignment_1.SectionB
 
 fun main(){
     val n = readln().toInt()

@@ -1,4 +1,4 @@
-package SectionA
+package Assignment_1.SectionA
 
 fun main(){
     val str = readln()

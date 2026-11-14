@@ -1,4 +1,4 @@
-package SectionB
+package Assignment_1.SectionB
 
 import kotlin.math.pow
 import kotlin.math.sqrt

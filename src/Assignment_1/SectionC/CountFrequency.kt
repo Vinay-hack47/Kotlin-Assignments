@@ -1,4 +1,4 @@
-package SectionC
+package Assignment_1.SectionC
 
 fun main() {
     val items = listOf("apple", "banana", "apple", "orange", "banana", "apple")

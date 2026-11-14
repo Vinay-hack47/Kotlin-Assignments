@@ -1,4 +1,4 @@
-package SectionA
+package Assignment_1.SectionA
 
 fun findLargest(num1 : Int, num2 : Int, num3 : Int) : Int{
     val largest = when{

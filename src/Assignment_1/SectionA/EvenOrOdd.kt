@@ -1,4 +1,4 @@
-package SectionA
+package Assignment_1.SectionA
 
 fun checkEvenOrOdd(num : Int){
     if (num % 2 == 0){
