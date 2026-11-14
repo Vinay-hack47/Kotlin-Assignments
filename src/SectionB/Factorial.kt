@@ -1,0 +1,15 @@
+package SectionB
+
+fun main(){
+    val n = readln().toInt()
+    val ans = factorial(n)
+    println(ans)
+}
+
+fun factorial(n : Int) : Int{
+    if (n == 0 || n == 1){
+        return 1
+    }
+
+    return n * factorial(n-1)
+}
